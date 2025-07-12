@@ -27,9 +27,8 @@ nav {
   font-size: 25px;
   font-weight: bold;
 }
-.logo span {
-  color: #1494c7;
-  font-size: 28px;
+.img {
+  max-width: 100%;
 }
 
 .hamburger {
